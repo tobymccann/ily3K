@@ -1,0 +1,22 @@
+{
+  "name": "ily3k",
+  "version": "1.0.0",
+  "description": "The I Love You 3K CSS Framework",
+  "dependencies": {
+    "sass": "^1.23.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobymccann/ily3K.git"
+  },
+  "author": "Jason Kennemer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobymccann/ily3K/issues"
+  },
+  "homepage": "https://github.com/tobymccann/ily3K#readme"
+}
